@@ -4,7 +4,7 @@ Este repositorio foi criado para a oportunidade de estagio da Automalogica
 - Foram utilizados dois templates Bootstrap https://startbootstrap.com/themes/
 - Foi criado um metodo de login para o acesso.
 - Foi utilizado o Firebase na autenticação
-- Foi linkada uma pagina de acesso pos login, com minhas informações.
+- Foi linkada uma pagina de acesso pós login, com minhas informações.
 
 --------------------------------------------------------------------------------
 Como executar os arquivos
