@@ -1,5 +1,4 @@
-# DEV-EST-0120
-Este repositorio foi criado para a oportunidade de estagio da Automalogica
+# Pagina de Login
 
 - Foram utilizados dois templates Bootstrap https://startbootstrap.com/themes/
 - Foi criado um metodo de login para o acesso.
