@@ -12,7 +12,7 @@ Como executar os arquivos
 - 2. Descompacte o arquivo
 - 3. Abra a pasta do arquivo no seu editor preferido (Usei o Visual Studio Code).
 - 4. Abra o arquivo index.html no seu navegador.
-- 5. Realize o login (Usuario: c.tarabal@automalogica.com.br e a senha: 123456)
+- 5. Realize o login (Usuario: pagina_login@webpage.com e a senha: 123456)
 - 6. E por fim, você estará acessando a uma pagina sobre o Carlos!
 --------------------------------------------------------------------------------
 Novas alterações 13/02
